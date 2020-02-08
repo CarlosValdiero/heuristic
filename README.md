@@ -1,6 +1,6 @@
 # Heuristic algorithms
 
-This software was developed in a work of data structure. In it is implemented the greedy and A * algorithm.
+This software was developed in a work of data structure. In this implementation we have the greedy and A * algorithm.
 
 
 ### Image of program
